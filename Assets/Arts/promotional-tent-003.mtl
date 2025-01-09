@@ -1,0 +1,15 @@
+# Blender MTL File: 'promotional-tent-003.blend'
+# Material Count: 1
+
+newmtl promotional-tent-003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures/promotional-tent-003-nrm-metalness-8k.png
+map_Ns textures/promotional-tent-003-roughness-metalness-8k.png
+refl textures/promotional-tent-003-metalness-metalness-8k.png
